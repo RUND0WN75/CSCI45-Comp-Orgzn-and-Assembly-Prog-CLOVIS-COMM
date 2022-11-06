@@ -1,0 +1,1 @@
+Implement a hash table in Assembly. You can refactor the C++ code and add helper functions (like to do modulus) but the core logic must be in assembly. You can make a hash table smaller, but you cannot make a hash table bigger than the limit typed in by the user.
